@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AHanen
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development (WordPress/WooCommerce)
+- 🌱 Freelancer
+- 💞️ I’m looking to collaborate on WordPress/WooCommerce
 - 📫 How to reach me ...
 
 <!---
